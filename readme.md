@@ -1,6 +1,8 @@
-#Python Files
-##About this repository
+# Python Files
 > Created at 2:26PM, 28/02/2021
+
+## About this repository
+
 I want a place where I can track my **small python side projects** over time. Feel free to browse through
 my code- some files are incomplete and some are. 
 
